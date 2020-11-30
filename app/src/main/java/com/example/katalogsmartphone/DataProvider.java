@@ -25,7 +25,7 @@ public class DataProvider {
         oppos.add(new Oppo("oppo a5s", "OS  Android 10, XOS 6.0",
                 ": 2020, September 17. Released 2020, October 17,MEMORY 64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM", R.drawable.oppo_a5s));
         oppos.add(new Oppo("oppo a53", "OS Android 9.0 (Pie), XOS 5.0",
-                ". Released 2019, September MEMORY : 32GB 2GB RAM, 64GB 4GB RAM", R.drawable.oppo_a53));
+                ". Released 2019, September  32GB 2GB RAM, 64GB 4GB RAM", R.drawable.oppo_a53));
         oppos.add(new Oppo("oppo a71", "        infinixes.add(new Infinix(\"S5 PRO\", \"\",\n",
                 "Released 2020, April MEMORY 64GB 4GB RAM.128GB 6GB RAM", R.drawable.oppo_a71));
         oppos.add(new Oppo("oppo reno4", " OS Android 10",
